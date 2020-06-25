@@ -11,5 +11,7 @@ Kitaro ist ein Musiker und Komponist
 * Lebt in Kalifornien
 
 > Meine Musik ist nicht Rhytm und Blues.
-> Aber es fuehlt sich an wie Soul. 
+> Aber es fuehlt sich an wie Soul.
+
+<img src="https://commons.wikimedia.org/wiki/File:Kitaro1L.jpg"/> 
 
