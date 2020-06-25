@@ -10,3 +10,6 @@ Kitaro ist ein Musiker und Komponist
 * Epochaler Klang seiner Kompositionen
 * Lebt in Kalifornien
 
+> Meine Musik ist nicht Rhytm und Blues.
+> Aber es fuehlt sich an wie Soul. 
+
