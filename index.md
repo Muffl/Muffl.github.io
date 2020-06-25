@@ -15,5 +15,5 @@ Kitaro ist ein Musiker und Komponist
 
 ![Kitaro](/image/Kitaro.png)
 
-[Link ](https://www.youtube.com/watch?v=XhxbShjpwEU)
+[Link ](https://www.youtube.com/watch?v=0etr-qhiKzQ&list=RD0etr-qhiKzQ&start_radio=1&t=12)
 
