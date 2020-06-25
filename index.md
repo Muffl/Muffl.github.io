@@ -13,5 +13,5 @@ Kitaro ist ein Musiker und Komponist
 > Meine Musik ist nicht Rhytm und Blues.
 > Aber es fuehlt sich an wie Soul.
 
-<img src="https://commons.wikimedia.org/wiki/File:Kitaro1L.jpg"/> 
+![Kitaro](/image/Kitaro.png)
 
